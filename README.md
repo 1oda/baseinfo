@@ -1,6 +1,6 @@
 # baseinfo_metrics
 
-linux base metrics node_exporter
+linux server base metrics node_exporter
 
 
 # nvidia
